@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "8f1bb873dce81c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3a98bab6be4956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f0a869149066b0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "新建 文本文档.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "新建 文本文档"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84277985cfcd1f09",
+    "type": "split",
+    "children": [
+      {
+        "id": "6395bd26552ff6c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "830a15b720956d52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6a4e5f50b43487a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "be2f6b8468b15d41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "573dde0ac1e798a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5712caae3d5c2d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c247f5e46a5fe138",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "新建 文本文档.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "新建 文本文档 的反向链接列表"
+            }
+          },
+          {
+            "id": "634add73a1d8350d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "新建 文本文档.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "新建 文本文档 的出链列表"
+            }
+          },
+          {
+            "id": "fb09c6f8445e6c4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1e51bbf0c0651024",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e71a278a1bc6cb90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "新建 文本文档.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "新建 文本文档 的大纲"
+            }
+          },
+          {
+            "id": "b0a64084e66acd04",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b0a64084e66acd04",
+  "lastOpenFiles": [
+    "一个好的prom.md",
+    "每个领土被中国统治了多少年.md",
+    "The Fire Horse Prophecy Why 2026 Is The End of The Beginning.md",
+    "Pasted image 20260117110416.png"
+  ]
+}
